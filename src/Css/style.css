@@ -41,7 +41,7 @@ span.load{
     border: 2px solid white;
     border-radius: 15px;
     width: 300px;
-    height: 20vh;
+    min-height: 20vh;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
